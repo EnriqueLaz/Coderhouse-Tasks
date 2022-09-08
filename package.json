@@ -1,0 +1,23 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "keywords": [
+    "1324"
+  ],
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "~2.29.4",
+    "nodemon": "^2.0.19"
+  },
+  "description": "dam",
+  "repository": {
+    "type": "git",
+    "url": "dam"
+  }
+}

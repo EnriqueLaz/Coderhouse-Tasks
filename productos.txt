@@ -1,0 +1,1 @@
+[{"title":"A","price":100,"thumbnail":"https://abc.png","id":1},{"title":"B","price":200,"thumbnail":"https://def.png","id":2},{"title":"C","price":300,"thumbnail":"https://fgh.png","id":3}]
